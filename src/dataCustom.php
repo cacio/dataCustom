@@ -1,6 +1,6 @@
 <?php
 
-namespace cacio\dataCustom;
+namespace cacio\datacustom;
 
 /**
  * MysqliDb Class
@@ -16,7 +16,7 @@ namespace cacio\dataCustom;
  * @version   2.9.3
  */
 
-class dataCustom
+class datacustom
 {
 
     /**
