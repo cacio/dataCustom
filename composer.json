@@ -1,5 +1,5 @@
 {
-  "name": "cacio/dataCustom",
+  "name": "cacio/datacustom",
   "description": "The data layer is a persistent abstraction component of your database that PDO",
   "keywords": [
     "Prodasiq",    
@@ -25,7 +25,7 @@
   },
   "autoload": {
     "psr-4": {
-      "cacio\\dataCustom\\": "src"
+      "cacio\\datacustom\\": "src"
     }
   }
 }
