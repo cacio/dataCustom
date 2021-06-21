@@ -21,7 +21,8 @@
   ],
   "require": {
     "php": "^7.2",
-    "ext-pdo": "*"
+    "ext-pdo": "*",
+    "cacio/datacustom":"dev-master"
   },
   "autoload": {
     "psr-4": {
