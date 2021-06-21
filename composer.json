@@ -1,0 +1,31 @@
+{
+  "name": "cacio/dataCustom",
+  "description": "The data layer is a persistent abstraction component of your database that PDO",
+  "keywords": [
+    "Prodasiq",    
+    "Database",
+    "PDO",
+    "Save",
+    "Delete",
+    "Destroy",
+    "CRUD"
+  ],
+  "homepage": "http://www.prodasiq.com.br",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Cacio Silva",
+      "email": "caciorenato@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": "^7.2",
+    "ext-pdo": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "cacio\\dataCustom\\": "src"
+    }
+  }
+}
