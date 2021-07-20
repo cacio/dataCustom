@@ -1,3 +1,3 @@
 # dataCustom
 
-Conexão de banco de banco de dados mysql
+Conexão de banco de dados mysql
